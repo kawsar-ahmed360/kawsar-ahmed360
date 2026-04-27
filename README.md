@@ -1,5 +1,5 @@
 # Hi there, I'm Md. Abul Kalam! 👋
-## Full Stack Web Developer | Director at ITSOFT
+## Full Stack Web Developer
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidWhtbm9qZ3h4ZzR6Z3h4ZzR6Z3h4ZzR6Z3h4ZzR6Z3h4ZzR6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="50%" />

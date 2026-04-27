@@ -6,7 +6,6 @@
 </p>
 
 ### 👨‍💻 About Me
-### 👨‍💻 About Me
 I am a results-driven **Software Engineer** based in Dhaka, with a strong focus on building scalable and high-performance web applications. I specialize in the **PHP/Laravel** ecosystem and modern frontend frameworks like **Vue.js and React**.
 
 With a proven track record of delivering over **60+ successful projects**, I have extensive experience in:

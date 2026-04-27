@@ -6,7 +6,16 @@
 </p>
 
 ### 👨‍💻 About Me
-I'm a passionate Software Engineer from Dhaka, specializing in **PHP, Laravel, and Vue.js**. Currently, I'm leading **ITSOFT** and building ultra-modern web applications for medical and industrial sectors.
+### 👨‍💻 About Me
+I am a results-driven **Software Engineer** based in Dhaka, with a strong focus on building scalable and high-performance web applications. I specialize in the **PHP/Laravel** ecosystem and modern frontend frameworks like **Vue.js and React**.
+
+With a proven track record of delivering over **60+ successful projects**, I have extensive experience in:
+- 🚀 Developing complex **E-commerce platforms** with advanced payment & shipping logic.
+- 🏥 Building specialized **Management Systems** for the medical and garment industries.
+- 🎨 Creating **Ultra-modern UI/UX** experiences using Tailwind CSS and Element Plus.
+- ⚙️ Implementing robust **Backend Solutions**, API integrations, and SEO strategies.
+
+I am passionate about writing clean, maintainable code and turning innovative ideas into functional digital products.
 
 - 🔭 I’m currently working on **Advanced Hospital Management Systems**.
 - 🌱 I’m currently exploring **Next.js, Node.js, and MongoDB**.
